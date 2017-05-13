@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Spooky Native Anoikis Treaty Organization
 
-You can use the [editor on GitHub](https://github.com/eve-val/spooky.space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Members
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Of Sound Mind (SOUND)
+* Rejection of Sovereignty (N0SOV)
+* Einstein-Rosen Brigade (ERB)
 
-### Markdown
+### Past Operations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* May 8-10: [Holesale eviction of Tarnak Inc thwarted by spooky peacekeepers](https://docs.google.com/document/d/1utPWOYHm66YVoWv4xYvmcX50LSIOTb7v85VsHw_4Rpg/view]
 
-```markdown
-Syntax highlighted code block
+### Rules of Engagement
 
-# Header 1
-## Header 2
-### Header 3
+* We will shoot each other and you unless otherwise agreed.
+* We will consider requests to deploy peacekeeping forces if another W-space PvP entity is under siege for unwarranted reasons.
 
-- Bulleted
-- List
+### How to reach us
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eve-val/spooky.space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact a listed diplomat of any member alliance.
