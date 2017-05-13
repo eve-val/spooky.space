@@ -8,7 +8,7 @@
 
 ### Past Operations
 
-* May 8-10: [Holesale eviction of Tarnak Inc thwarted by spooky peacekeepers](https://docs.google.com/document/d/1utPWOYHm66YVoWv4xYvmcX50LSIOTb7v85VsHw_4Rpg/view]
+* May 8-10: [Holesale eviction of Tarnak Inc thwarted by spooky peacekeepers](https://docs.google.com/document/d/1utPWOYHm66YVoWv4xYvmcX50LSIOTb7v85VsHw_4Rpg/view)
 
 ### Rules of Engagement
 
